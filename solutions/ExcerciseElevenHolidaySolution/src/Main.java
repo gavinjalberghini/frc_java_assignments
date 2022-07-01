@@ -1,9 +1,9 @@
-public class App {
+public class Main {
     public static void main(String[] args) throws Exception {
         //Answe D
         Holiday hol = new Holiday("Independence Day", 4, "July");
 
-        //Not answers, but extra code to show you the results of the methos
+        //Not answers, but extra code to show you the results of the methods
         Holiday secondHol = new Holiday("Christmas", 25, "December");
         Holiday thirdHol = new Holiday("Halloween", 27, "October");
 
