@@ -26,4 +26,8 @@ public class President {
     {
         System.out.println("I am the president of the United States");
     }
+
+    public class test {
+        
+    }
 }
